@@ -1,0 +1,35 @@
+[
+  {
+    "week": 1,
+    "title": "Week 1 ",
+    "date": "Jan 6-12, 2025",
+    "description": "Orientation, understanding internship objectives, and setup.",
+    "tasks": [
+      "Attended orientation session",
+      "Set up development environment",
+      "Reviewed course materials"
+    ]
+  },
+  {
+    "week": 2,
+    "title": "Week 2 - Initial Tasks",
+    "date": "Jan 13-19, 2025",
+    "description": "Worked on assigned tasks, research, and mentor discussions.",
+    "tasks": [
+      "Completed assigned readings",
+      "Had mentor discussion",
+      "Started working on case study"
+    ]
+  },
+  {
+    "week": 3,
+    "title": "Week 3 - Case Studies",
+    "date": "Jan 20-26, 2025",
+    "description": "Completed case studies, cleared YMT viva, and practical learning.",
+    "tasks": [
+      "Submitted case study report",
+      "Cleared YMT viva",
+      "Hands-on practical sessions"
+    ]
+  }
+]
