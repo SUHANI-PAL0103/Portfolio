@@ -8,9 +8,118 @@
   },
   {
     "week": 2,
-    "title": "Week 2 -Absent",
+    "title": "Week 2 - Absent",
     "date": "Jan 12, 2026",
     "description": "I was absent during this week because I was on my NPTEL internship. Will catch up on course materials soon.",
+    "tasks": []
+  },
+  {
+    "week": 3,
+    "title": "Week 3 - Self-Introduction Strategy",
+    "date": "Jan 19, 2026",
+    "description": "Learned strategies to make a strong, impactful self-introduction in a short time by identifying job keywords and tailoring the pitch accordingly.",
+    "tasks": [
+      "Reviewed job descriptions to extract role-specific keywords",
+      "Structured a short, high-impact self-introduction",
+      "Practiced tailoring the intro to different roles"
+    ]
+  },
+  {
+    "week": 4,
+    "title": "Week 4 - On-Stage Self Introduction",
+    "date": "Jan 2, 2026",
+    "description": "Delivered a self-introduction on stage, applying key points for clarity, confidence, and impact.",
+    "tasks": [
+      "Prepared a concise, structured self-introduction",
+      "Practiced voice modulation and confident delivery",
+      "Maintained eye contact and positive body language on stage"
+    ]
+  },
+  {
+    "week": 5,
+    "title": "Week 5 - Event Participation",
+    "date": "Feb 9, 2026",
+    "description": "Leftover students gave self-introductions and we learned more about resumes.",
+    "tasks": [
+      "Listened to peer self-introductions",
+      "Reviewed resume basics and key sections"
+    ]
+  },
+  {
+    "week": 6,
+    "title": "Week 6 - Class Activities",
+    "date": "Feb 16, 2026",
+    "description": "Learned extempore points and strategies during class activities.",
+    "tasks": [
+      "Practiced extempore speaking",
+      "Covered key points and strategies for quick thinking"
+    ]
+  },
+  {
+    "week": 7,
+    "title": "Week 7 - Mid-Term Exam",
+    "date": "Mar 9, 2026",
+    "description": "Had the mid-term exam for the PESE subject.",
+    "tasks": [
+      "Prepared for the PESE mid-term exam",
+      "Completed the mid-term assessment"
+    ]
+  },
+  {
+    "week": 8,
+    "title": "Week 8 - Essay Types and Importance",
+    "date": "Mar 16, 2026",
+    "description": "Learned the main types of essays and why each is important for clear, effective communication.",
+    "tasks": [
+      "Reviewed narrative, descriptive, expository, and persuasive essays",
+      "Discussed structure and purpose of each essay type",
+      "Practiced identifying the right format for different topics"
+    ]
+  },
+  {
+    "week": 9,
+    "title": "Week 9 - Placement Orientation Talk",
+    "date": "Mar 23, 2026",
+    "description": "Visited the convention center for a placement-oriented session where Infosys leaders shared guidance on upcoming placement exams.",
+    "tasks": [
+      "Attended the placement preparation talk by industry leaders",
+      "Noted key tips for exam strategy and preparation",
+      "Discussed expectations for campus hiring processes"
+    ]
+  },
+  {
+    "week": 10,
+    "title": "Week 10 - Interview Question Practice",
+    "date": "Mar 30, 2026",
+    "description": "Explored common interviewer questions and practiced how to approach and answer them through an activity.",
+    "tasks": [
+      "Brainstormed frequently asked interview questions",
+      "Discussed structured approaches for answering",
+      "Participated in a mock Q&A activity"
+    ]
+  },
+  {
+    "week": 11,
+    "title": "Week 11 - Absent",
+    "date": "Apr 6, 2026",
+    "description": "I was absent this week due to illness.",
+    "tasks": []
+  },
+  {
+    "week": 12,
+    "title": "Week 12 - Group Discussion Strategies",
+    "date": "Apr 13, 2026",
+    "description": "Participated in a group discussion and learned key strategies shared by the professor.",
+    "tasks": [
+      "Learned strategies for clear and concise communication",
+      "Practiced respectful turn-taking and active listening"
+    ]
+  },
+  {
+    "week": 13,
+    "title": "Week 13 - Absent",
+    "date": "Apr 27, 2026",
+    "description": "I was absent this week.",
     "tasks": []
   }
 ]
