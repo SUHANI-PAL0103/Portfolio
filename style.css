@@ -373,6 +373,29 @@ ul li b {
   margin: 5px 0;
 }
 
+.assignment-actions {
+  margin-top: 10px;
+}
+
+.assignment-link {
+  display: inline-block;
+  padding: 8px 16px;
+  border-radius: 20px;
+  background: linear-gradient(90deg, #1f3c88, #667eea);
+  color: white;
+  font-weight: 600;
+  font-size: 0.9em;
+  text-decoration: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.assignment-link:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 12px rgba(31, 60, 136, 0.25);
+  color: white;
+  text-decoration: none;
+}
+
 .status-badge {
   padding: 8px 16px;
   border-radius: 20px;

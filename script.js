@@ -79,6 +79,11 @@ async function loadAssignmentData() {
           <p><b>Due:</b> ${assignment.dueDate}</p>
           ${assignment.submittedDate ? `<p><b>Submitted:</b> ${assignment.submittedDate}</p>` : ''}
           ${assignment.grade ? `<p><b>Grade:</b> ${assignment.grade}</p>` : ''}
+          ${assignment.viewLink ? `
+            <div class="assignment-actions">
+              <a class="assignment-link" href="${assignment.viewLink}" target="_blank" rel="noopener noreferrer">View Assignment</a>
+            </div>
+          ` : ''}
         </div>
         <div class="status-badge ${statusClass}">
           ${statusText}

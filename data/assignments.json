@@ -1,11 +1,23 @@
 [
+ 
   {
     "id": 1,
-    "title": "Assignments Coming Soon",
-    "description": "Assignments will be added as soon as they are assigned by the instructor",
-    "dueDate": "To be announced",
-    "status": "pending",
+    "title": "Week 4 Self Introduction Video",
+    "description": "Overview: A 1-minute self-introduction video from Week 4, focused on peer presentations on stage. Highlights include confident delivery, clear structure, key background points, and a polished closing for classroom presentation practice.",
+    "dueDate": "Completed",
+    "status": "completed",
     "submittedDate": null,
-    "grade": null
+    "grade": null,
+    "viewLink": "https://drive.google.com/file/d/1_WhcO4XlRL8Lkg0ocj_D1FnXA0PqO3JE/view?usp=drivesdk"
+  },
+   {
+    "id": 2,
+    "title": "Week 7 Essay Assignment",
+    "description": "Overview: Apply Week 7 essay-writing fundamentals, covering structure, key essay types (descriptive, narrative, expository, persuasive, analytical), and characteristics of effective writing. Use the button below to view details.",
+    "dueDate": "Completed",
+    "status": "completed",
+    "submittedDate": null,
+    "grade": null,
+    "viewLink": "https://drive.google.com/file/d/18fB-QDqiEtPr68GiVGEEpWviurc7tHIV/view?usp=drivesdk"
   }
 ]
